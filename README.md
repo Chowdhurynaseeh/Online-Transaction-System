@@ -1,1 +1,2 @@
-# bank
+# Online Banking System
+A fully functional project based on Online Banking System that uses PHP Language. Following PHP project contains all the essential features which can be in use for the first year, second year IT students for their college projects. It has a number of features that will allow users to use internet banking features. This system as well as the web application’s concept is all clear, it’s the same as real-life scenarios and well-implemented on it.
