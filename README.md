@@ -45,6 +45,8 @@ This project is structured to separate different functionalities into modules, m
 
 ## ER
 ![image](https://github.com/user-attachments/assets/1d5aeb03-4137-4f95-9235-7b133b45f32b)
+![image](https://github.com/user-attachments/assets/ddea037d-911d-4d8c-a513-9d4832ad9e8c)
+
 
 
 ## Installation
