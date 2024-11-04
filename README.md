@@ -2,8 +2,6 @@
 A fully functional Online Banking System web application developed using PHP. This project aims to provide a secure, efficient, and user-friendly platform for customers to manage their banking needs online, including viewing accounts, transferring funds, managing beneficiaries, and accessing transaction histories.
 ![image](https://github.com/user-attachments/assets/7e2d607e-2181-4895-a380-b8e227c0154b)
 
-![image](https://github.com/user-attachments/assets/39eead62-21b9-4ccf-9564-73932d8f4c6b)
-
 ## Table of Contents
 - [Features](#features)
 - [Project Structure](#project-structure)
