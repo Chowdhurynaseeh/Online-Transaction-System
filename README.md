@@ -20,26 +20,28 @@ A fully functional Online Banking System web application developed using PHP. Th
 - **Loan and EMI Calculator**: Calculate loan EMIs and apply for loans directly.
 - **Account Security**: Password recovery, OTP validation, and other security features.
 
-## Project Structure
-The project follows a modular structure for easy maintenance and scaling.
 
-Online-Banking-System/
-├── DATABASE FILE/             # Database files for initial setup
-├── css/                       # Stylesheets for the application
-├── img/                       # Image assets
-├── Blank_page.php             # Template for creating new pages
-├── README.md                  # Project README file
-├── Staff_profile_header.php   # Header layout for staff profile pages
-├── account_approve_process.php # Process for approving new accounts
-├── active_customers.php       # Displays currently active customers
-├── add_beneficiary.php        # Adds a new beneficiary for fund transfer
-├── bank_branch.php            # Manages and displays bank branch details
-├── credit_customer_ac.php     # Handles customer credit account functions
-├── customer_login.php         # Customer login page
-├── customer_profile.php       # Displays customer profile details
-├── db_connect.php             # Database connection file with credentials
-├── fund_transfer.php          # Handles fund transfer between accounts
-├── staff_login.php            # Staff login page
+## Description
+
+This project is structured to separate different functionalities into modules, making it easier to maintain and scale. Here’s a quick rundown of the main components:
+
+- **DATABASE FILE/**: Contains all necessary database files for initial setup.
+- **css/**: Stylesheets that define the application's look and feel.
+- **img/**: Image assets used throughout the project.
+- **Blank_page.php**: A template for creating new pages.
+- **Staff_profile_header.php**: The header layout specifically for staff profile pages.
+- **account_approve_process.php**: Script to handle the approval process for new customer accounts.
+- **active_customers.php**: Page displaying currently active customers.
+- **add_beneficiary.php**: Form to add a new beneficiary for fund transfers.
+- **bank_branch.php**: Page to manage and display bank branch information.
+- **credit_customer_ac.php**: Script to credit a customer's account.
+- **customer_login.php**: Login page for customers.
+- **customer_profile.php**: Page to display customer profile information.
+- **db_connect.php**: Contains the code for database connection and credentials.
+- **fund_transfer.php**: Handles the logic for fund transfers between customer accounts.
+- **staff_login.php**: Login page for staff members.
+
+
 
 ## ER
 ![image](https://github.com/user-attachments/assets/1d5aeb03-4137-4f95-9235-7b133b45f32b)
@@ -64,5 +66,10 @@ Navigate to the Project in Your Browser
 Open your browser and go to http://localhost/Online-Banking-System to access the application.
 
 ![image](https://github.com/user-attachments/assets/a89f877a-c533-4778-8829-326862521b6b)
+
+
+## License
+
+This project is licensed under the [Your License] License - see the LICENSE file for details.
 
 
