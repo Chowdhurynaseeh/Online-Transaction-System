@@ -1,6 +1,6 @@
 # Online Banking System
 A fully functional Online Banking System web application developed using PHP. This project aims to provide a secure, efficient, and user-friendly platform for customers to manage their banking needs online, including viewing accounts, transferring funds, managing beneficiaries, and accessing transaction histories.
-![image](https://github.com/user-attachments/assets/7e2d607e-2181-4895-a380-b8e227c0154b)
+
 
 ## Table of Contents
 - [Features](#features)
@@ -43,9 +43,7 @@ This project is structured to separate different functionalities into modules, m
 
 
 
-## ER
-![image](https://github.com/user-attachments/assets/1d5aeb03-4137-4f95-9235-7b133b45f32b)
-![image](https://github.com/user-attachments/assets/ddea037d-911d-4d8c-a513-9d4832ad9e8c)
+
 
 
 
@@ -67,7 +65,6 @@ Navigate to the Project in Your Browser
 
 Open your browser and go to http://localhost/Online-Banking-System to access the application.
 
-![image](https://github.com/user-attachments/assets/a89f877a-c533-4778-8829-326862521b6b)
 
 
 ## License
